@@ -4,8 +4,8 @@ RIT student study in IGME
 
 # ordered list for my diet
 1. breakfast
-2. lunch
-3. **dinner** with highlight printout
+2. *lunch* with italic printout
+3. **dinner** with bold printout
    
 4. homework and game
 
