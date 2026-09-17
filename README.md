@@ -24,6 +24,7 @@ RIT student study in IGME
 [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
 [Basic syntax guide](https://www.markdownguide.org/basic-syntax/)
 [Interactive tutorial](https://www.markdowntutorial.com/)
+[**emoji**](https://gist.github.com/rxaviers/7360908)
 
 # A picture 
 ![**A picture of mountain**](https://static.vecteezy.com/system/browse_category/image/29/small_Landscapes_cb1.jpg)
