@@ -21,9 +21,13 @@ RIT student study in IGME
 
 # A website
 [Some free pictures here](https://picjumbo.com/)
+
 [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
+
 [Basic syntax guide](https://www.markdownguide.org/basic-syntax/)
+
 [Interactive tutorial](https://www.markdowntutorial.com/)
+
 [**emoji**](https://gist.github.com/rxaviers/7360908)
 
 # A picture 
